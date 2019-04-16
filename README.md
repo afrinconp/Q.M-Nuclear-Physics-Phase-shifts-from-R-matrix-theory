@@ -15,6 +15,8 @@ which are constructed by Coulomb functions and the cosine and sine of a phase sh
 
 The phase shift can be obtained using the method of R-matrix.
 
+## R-Matrix 
+
 Firstly C matrix is created as
 
 ![Cmatrix](src/Cmatrix.png)

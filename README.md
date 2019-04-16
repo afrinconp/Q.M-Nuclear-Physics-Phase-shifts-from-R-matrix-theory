@@ -39,4 +39,9 @@ The potential matrix elements take the simple form
 
 Here x<sub>i</sub> are the roots of Legendre polynomial of order N  (P<sub>N</sub>), which satisfies  
 
-![Roots-Legendre](Roots-Legendre.png)
+![Roots-Legendre](src/Roots-Legendre.png)
+
+Then, the R-matrix is made following the equation below
+
+![Rmatrix](src/Rmatrix.png)
+

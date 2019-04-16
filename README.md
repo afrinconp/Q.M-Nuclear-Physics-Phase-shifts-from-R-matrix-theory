@@ -13,6 +13,12 @@ The solution for the external region can be written in terms of the Hankel funct
 
 which are constructed by Coulomb functions and the cosine and sine of a phase shift.
 
+Here:
+
+![k](src/k.png)
+
+![eta](src/eta.png)
+
 The phase shift can be obtained using the method of R-matrix.
 
 ## R-Matrix 

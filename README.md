@@ -37,6 +37,6 @@ The potential matrix elements take the simple form
 
 ![Lagrange-Legendre-functions](src/Lagrange-Legendre-functions.png)
 
-Here x<sub>i</sub>(a) are the roots of Legendre polynomial of order N (P<sub>N</sub>), which satisfies  
+Here x<sub>i</sub> are the roots of Legendre polynomial of order N  (P<sub>N</sub>), which satisfies  
 
 ![Roots-Legendre](Roots-Legendre.png)

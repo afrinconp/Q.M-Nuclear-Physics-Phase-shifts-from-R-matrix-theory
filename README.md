@@ -32,3 +32,11 @@ For i≠j
 The potential matrix elements take the simple form
 
 ![Potential](src/Potential.png)
+
+φ<sub>i</sub> are the Lagrange-Legendre functions evaluated in a (f<sub>i</sub>(a)), these fucntions are defined as
+
+![Lagrange-Legendre-functions](src/Lagrange-Legendre-functions.png)
+
+Here x<sub>i</sub>(a) are the roots of Legendre polynomial of order N (P<sub>N</sub>), which satisfies  
+
+![Roots-Legendre](Roots-Legendre.png)

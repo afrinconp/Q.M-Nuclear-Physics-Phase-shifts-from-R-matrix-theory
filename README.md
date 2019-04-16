@@ -27,6 +27,8 @@ For i=j
 
 For i≠j
 
-![KineticMAtrix2.png](src/KineticMAtrix2.png)
+![KineticMAtrix2](src/KineticMAtrix2.png)
 
+The potential matrix elements take the simple form
 
+![Potential](src/Potential.png)

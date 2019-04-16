@@ -21,7 +21,8 @@ Firstly C matrix is created as
 
 where the kinetic elements are calculated using the Gauss-Legendre quadrature plus a Blonch operator L<sub>i,j</sub>
 
+![KineticMatrix1](src/KineticMatrix1.png)
 
-
+![KineticMAtrix2.png](src/KineticMAtrix2.png)
 
 

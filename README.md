@@ -79,4 +79,10 @@ The results are showed below for l=0, N=7 and N=10
 
 Besides, instead of having 12C and a proton, I  obtained the result for other  for two α particles and let be l=4
 
+The potential, which must be used is:
+
+V<sub>N</sub>(r)=-73.8exp(-(r/2.70)<sup>2</sup>)
+
+V<sub>C</sub>(r)=4e<sup>2</sup>erf(r/1.33)/r.
+
 ![Alpha shift α-α](AlphaShiftα-α.png)

@@ -55,3 +55,13 @@ Then, the R-matrix is made following the equation below
 
 ![Rmatrix](src/Rmatrix.png)
 
+## Scattering matrix
+
+Once we know the R-matrix, it is possible to find the scaterring matrix appearing in the asymptotic scattering wave function.
+
+![Scattering-matrix](src/Scattering-matrix.png)
+
+
+
+
+

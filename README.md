@@ -61,7 +61,9 @@ Once we know the R-matrix, it is possible to find the scaterring matrix appearin
 
 ![Scattering-matrix](src/Scattering-matrix.png)
 
+Then, the phase shift is easy to find due to the fact that
 
+![Scatter2](src/Scatter2.png)
 
 
 

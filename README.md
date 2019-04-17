@@ -71,5 +71,5 @@ I constructed a program in python that calculates the shift phase in function of
 
 V<sub>N</sub>(r)=-73.8exp(-(r/2.70)
 
-y<up>2</up>
+y<sup>2</sup>
 

@@ -1,4 +1,4 @@
-# Q.M-Nuclear Physics Phase shifts of two nuclei using the R-matrix Theory
+# Q.M-Nuclear Physics: Collision Phase shifts of two nuclei using the R-matrix Theory
 
 ## The stationary Schrödinger equation
 

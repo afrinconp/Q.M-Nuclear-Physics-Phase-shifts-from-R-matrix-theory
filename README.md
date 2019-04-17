@@ -86,3 +86,10 @@ V<sub>N</sub>(r)=-73.8exp(-(r/2.70)<sup>2</sup>)
 V<sub>C</sub>(r)=4e<sup>2</sup>erf(r/1.33)/r.
 
 ![Alpha shift α-α](AlphaShiftα-α.png)
+
+You can get more information if you click the paper below:
+
+![The R-matrix theory](stacks.iop.org/RoPP/73/036301)
+
+
+

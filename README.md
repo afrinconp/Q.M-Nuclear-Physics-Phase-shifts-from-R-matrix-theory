@@ -19,7 +19,7 @@ Here:
 
 ![eta](src/eta.png)
 
-Z<sub>1</sub> and Z<sub>2</sub> are the atomic number from 
+Z<sub>1</sub> and Z<sub>2</sub> are the atomic number of projectile and target respectively
 
 The phase shift can be obtained using the method of R-matrix.
 

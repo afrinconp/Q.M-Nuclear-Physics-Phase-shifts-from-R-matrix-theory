@@ -89,7 +89,7 @@ V<sub>C</sub>(r)=4e<sup>2</sup>erf(r/1.33)/r.
 
 You can get more information if you click the paper below:
 
-![The R-matrix theory](stacks.iop.org/RoPP/73/036301)
+[The R-matrix theory](https://iopscience.iop.org/article/10.1088/0034-4885/73/3/036301/meta)
 
 
 

@@ -73,6 +73,8 @@ V<sub>N</sub>(r)=-73.8exp(-(r/2.70)<sup>2</sup>)
 
 V<sub>C</sub>(r)=6e<sup>2</sup>/r
 
-The results are showed below for N=7 and N=10
+The results are showed below for l=0, N=7 and N=10
 
 ![12Cp](12Cp.png)
+
+Besides, instead of having 12C and a proton, I  obtained the result for other  for two α particles and let be l=4

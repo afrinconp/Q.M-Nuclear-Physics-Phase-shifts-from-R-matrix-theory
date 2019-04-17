@@ -79,4 +79,4 @@ The results are showed below for l=0, N=7 and N=10
 
 Besides, instead of having 12C and a proton, I  obtained the result for other  for two α particles and let be l=4
 
-![Alpha shift α-α](Alpha shift α-α.png)
+![Alpha shift α-α](AlphaShiftα-α.png)

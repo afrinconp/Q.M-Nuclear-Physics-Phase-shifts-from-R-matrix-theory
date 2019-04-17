@@ -69,7 +69,7 @@ Then, the phase shift is easy to find due to the fact that
 
 I constructed a program in python that calculates the shift phase in function of the energy (MeV) (MatrixPhaseShiftsInDegrees.py), for the 12C and a proton. The potential which is used in this program is:
 
-V<sub>N</sub>(r)=-73.8exp(-(r/2.70)
+V<sub>N</sub>(r)=-73.8exp(-(r/2.70)<sup>2</sup>)
 
-y<sup>2</sup>
+V<sub>C</sub>(r)=6e<sup>2</sup>/r
 

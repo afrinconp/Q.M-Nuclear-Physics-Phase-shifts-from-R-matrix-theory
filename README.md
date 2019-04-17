@@ -1,4 +1,4 @@
-# Q.M-Nuclear-Physics-Phase-shifts-from-R-matrix-theory
+# Q.M-Nuclear Physics Phase shifts of two nuclei using the R-matrix Theory
 
 ## The stationary Schrödinger equation
 
@@ -18,6 +18,8 @@ Here:
 ![k](src/k.png)
 
 ![eta](src/eta.png)
+
+Z<sub>1</sub> and Z<sub>2</sub> are the atomic number from 
 
 The phase shift can be obtained using the method of R-matrix.
 
